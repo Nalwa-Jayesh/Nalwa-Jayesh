@@ -89,8 +89,6 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalwa-Jayesh&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nalwa-Jayesh/Nalwa-Jayesh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nalwa-Jayesh/Nalwa-Jayesh/output/github-snake.svg" />
