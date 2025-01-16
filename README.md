@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nalwa-Jayesh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Nalwa-Jayesh&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nalwa-Jayesh&theme=radical&row=1&column=6" alt="GitHub Trophies" width="80%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalwa-Jayesh&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
