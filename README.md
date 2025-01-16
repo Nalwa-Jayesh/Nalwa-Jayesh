@@ -91,8 +91,6 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 
 ---
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nalwa-Jayesh/Nalwa-Jayesh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nalwa-Jayesh/Nalwa-Jayesh/output/github-snake.svg" />
